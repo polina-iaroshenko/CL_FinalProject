@@ -5,7 +5,7 @@
 
 Репозиторий содержит следующие файлы:
 
-- **2 файла ipynb**: 1) PolinaIaroshenko_FinalProjectHSE.ipynb - основной файл, где содержится весь код по решению задачи проекта, показана работа с моделями-трансформерами; 2) PolinaIaroshenko_Word2Vec.ipynb - это дополнительный файл, где я обучила модель Word2Vec на своем корпусе и визуализировала эмбеддинги.
+- **2 файла ipynb**: 1) PolinaIaroshenko_FinalProjectHSE.ipynb - основной файл, где содержится весь код по решению задачи проекта, показана работа с моделями-трансформерами. Выполненный код можно сразу посмотреть здесь: https://colab.research.google.com/drive/1JdxPPGtic4nxQBxnM3unpYJsqsaTwPMj?usp=sharing; 2) PolinaIaroshenko_Word2Vec.ipynb - это дополнительный файл, где я обучила модель Word2Vec на своем корпусе и визуализировала эмбеддинги: https://colab.research.google.com/drive/1waWC3QHUkmpkBce3mi4YVHELVv1GIhsp?usp=sharing.
 
 - **1 файл xlsx**: test_file_sample.xlsx - его можно использовать для проверки корректной работы кода в тех случаях, когда требуется загрузить размеченные данные (например, при работе с трансформерами)
 
